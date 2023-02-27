@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314650021405",
+    "firebase_url": "https://wings-fd5fa-default-rtdb.firebaseio.com",
+    "project_id": "wings-fd5fa",
+    "storage_bucket": "wings-fd5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314650021405:android:fc62aae5c54dac0bca80f4",
+        "android_client_info": {
+          "package_name": "com.reggya.wings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314650021405-tq0at80fsg4p42pjjtbg0jmnkklnggcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3SnZ-8kX61CKCi5FF8GePY_-1B7rvtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314650021405-tq0at80fsg4p42pjjtbg0jmnkklnggcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
